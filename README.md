@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navnath Palve
 - 👀 I’m interested in Artificial Intelligence and Data Science
 - 🌱 I’m currently learning about AWS
-- 💞️ I have good knowledge of Python,ML,DL,NLP
+- 💞️ I have good knowledge of Python, ML, DL, NLP
 - 📫 How to reach me https://github.com/Navnath1111
 
 <!---
